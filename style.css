@@ -1,0 +1,53 @@
+.imageA{
+  background-image: url(nightPattern.jpg);
+}
+
+.image1{
+  background-image: url(OIP.jpg);
+  height: 225px;
+  width: 150px;
+}
+
+.cardhang{
+  position: absolute;
+  bottom: -25px;
+}
+
+.centertext{
+  text-align: center;
+  
+}
+
+.basepadding{
+  padding: 7%;
+  margin-top: 0%;
+}
+
+.basepadding1{
+  margin-left: 5%;
+  padding: 0%;
+}
+.basepadding2{
+  border-left: 5px solid darkblue;
+  padding: 0%;
+}
+.basepadding3{
+  margin-top: 10%;
+  margin-left: 5%;
+  padding: 0%;
+}
+.threereview {
+  display: flex;
+  align-items: center;
+}
+.threereview1{
+  display: flex;
+  justify-content: flex-end;
+}
+.imagecenter {
+  display: flex;
+  justify-content: center;
+}
+.fontchanger{
+  font-family: 'Sansita Swashed', cursive;
+}
